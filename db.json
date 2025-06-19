@@ -1,5 +1,128 @@
 {
-    "fligthlist":[
-        
-    ]
+  "flightlist": [
+    {
+      "flightName": "Air India",
+      "flightNumber": "AIC106",
+      "departureCity": "Kochi",
+      "arrivalCity": "Bangalore",
+      "departureDate": "2025-06-19",
+      "arrivalDate": "2025-06-19",
+      "departureTime": "13:10",
+      "arrivalTime": "14:20",
+      "price": "8000",
+      "id": 1
+    },
+    {
+      "flightName": "Qatar Airways",
+      "flightNumber": "QA134",
+      "departureCity": "Kochi",
+      "arrivalCity": "Trivandrum",
+      "departureDate": "2025-06-20",
+      "arrivalDate": "2025-06-20",
+      "departureTime": "10:40",
+      "arrivalTime": "11:00",
+      "price": "5000",
+      "id": 2
+    },
+    {
+      "flightName": "Air India",
+      "flightNumber": "AI321",
+      "departureCity": "Banglore",
+      "arrivalCity": "Chennai",
+      "departureDate": "2025-06-22",
+      "arrivalDate": "2025-06-22",
+      "departureTime": "08:00",
+      "arrivalTime": "10:58",
+      "price": "4888",
+      "id": 3
+    },
+    {
+      "flightName": "IndiGo",
+      "flightNumber": "IG093",
+      "departureCity": "Chennai",
+      "arrivalCity": "Kochi",
+      "departureDate": "2025-06-22",
+      "arrivalDate": "2025-06-22",
+      "departureTime": "13:30",
+      "arrivalTime": "14:50",
+      "price": "9800",
+      "id": 4
+    },
+    {
+      "flightName": "IndiGo",
+      "flightNumber": "IG190",
+      "departureCity": "Chennai",
+      "arrivalCity": "Bangalore",
+      "departureDate": "2025-06-20",
+      "arrivalDate": "2025-06-20",
+      "departureTime": "05:50",
+      "arrivalTime": "07:10",
+      "price": "8000",
+      "id": 5
+    },
+    {
+      "flightName": "Qatar Airways",
+      "flightNumber": "QA095",
+      "departureCity": "Kochi",
+      "arrivalCity": "Dubai",
+      "departureDate": "2025-06-21",
+      "arrivalDate": "2025-06-21",
+      "departureTime": "04:00",
+      "arrivalTime": "08:00",
+      "price": "12000",
+      "id": 6
+    },
+    {
+      "flightName": "Qatar Airways",
+      "flightNumber": "QA907",
+      "departureCity": "Dubai",
+      "arrivalCity": "Kochi",
+      "departureDate": "2025-06-22",
+      "arrivalDate": "2025-06-22",
+      "departureTime": "13:00",
+      "arrivalTime": "17:00",
+      "price": "12500",
+      "totalTime": 0,
+      "id": 7
+    },
+    {
+      "flightName": "Spice Jet",
+      "flightNumber": "SJ303",
+      "departureCity": "Hyderabad",
+      "arrivalCity": "Kochi",
+      "departureDate": "2025-06-21",
+      "arrivalDate": "2025-06-21",
+      "departureTime": "09:00",
+      "arrivalTime": "10:30",
+      "price": "5000",
+      "totalTime": 0,
+      "id": 8
+    },
+    {
+      "flightName": "IndiGo",
+      "flightNumber": "IG033",
+      "departureCity": "Delhi",
+      "arrivalCity": "Goa",
+      "departureDate": "2025-06-21",
+      "arrivalDate": "2025-06-21",
+      "departureTime": "10:00",
+      "arrivalTime": "11:45",
+      "price": "5500",
+      "totalTime": 0,
+      "id": 9
+    },
+    {
+      "flightName": "Vistara",
+      "flightNumber": "VT903",
+      "departureCity": "Delhi",
+      "arrivalCity": "Saudi Arabia",
+      "departureDate": "2025-06-23",
+      "arrivalDate": "2025-06-24",
+      "departureTime": "22:10",
+      "arrivalTime": "04:15",
+      "price": "26000",
+      "totalTime": 0,
+      "id": 10
+    }
+  ]
 }
