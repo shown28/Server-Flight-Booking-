@@ -1,0 +1,5 @@
+After pulling this repository into remote device 
+
+* open this folder in terminal and run 'node index.js' command.
+    once started runnig correctly, it uses port 3006.
+
